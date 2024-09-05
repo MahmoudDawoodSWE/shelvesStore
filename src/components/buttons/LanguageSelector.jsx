@@ -21,6 +21,7 @@ const LanguageSelector = () => {
       onChange={handleChange}
       sx={{
         p: "0.1rem",
+        m: "0.1rem",
         color: "white",
         ".MuiSvgIcon-root": { color: "white" },
       }}
@@ -32,7 +33,7 @@ const LanguageSelector = () => {
         },
       }}
       renderValue={() => (
-        <LanguageIcon sx={{ fontSize: "2rem", color: "white" }} />
+        <LanguageIcon sx={{ fontSize: "1rem", color: "white" }} />
       )}
     >
       {Object.entries(languagesWithTranslations).map(([code, translation]) => (

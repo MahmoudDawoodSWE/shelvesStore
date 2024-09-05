@@ -14,9 +14,10 @@ const CategoryList = ({
         pb: 2,
         display: "flex",
         overflowX: "auto",
-        gap: large ? "40px" : "20px",
+        gap: large ? "50px" : "20px",
         justifyContent: "center",
         flexWrap: "wrap",
+
       }}
     >
       {categories.map((category, index) => (

@@ -15,7 +15,7 @@ i18n
   .use(initReactI18next)
   .init(
     {
-      supportedLngs: ["en", "ar", "he"],
+      supportedLngs: ["ar", "en", "he"],
       fallbackLng: "ar",
       resources: {
         en: {
@@ -36,12 +36,13 @@ i18n
       react: {
         useSuspense: false, // Disable suspense to avoid issues with loading translations
       },
+      lng: "ar",
     },
     (err) => {
       if (err) {
         console.error("i18n initialization error:", err);
       } else {
-        setLocaleAndDirection(i18n.language);
+        setLocaleAndDirection(i18n.language || "ar");
       }
     }
   );

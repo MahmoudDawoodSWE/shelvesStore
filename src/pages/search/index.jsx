@@ -168,13 +168,11 @@ export default function SearchOccupation() {
         )}
 
         <Typography
-          component="h1"
           mt="3rem"
-          variant="h2"
           sx={{
             color: "white",
             fontSize: {
-              xs: "1.5rem",
+              xs: "1.8rem",
               sm: "2rem",
               md: "2.5rem",
               lg: "3rem",
