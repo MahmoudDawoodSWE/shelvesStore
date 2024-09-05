@@ -1,0 +1,1135 @@
+[{
+  "_id": {
+    "$oid": "66d060c4adf6a529cb041f0e"
+  },
+  "translations": [
+    {
+      "language": "ar",
+      "name": "رفوف للمتاجر",
+      "description": " تقدم الشركة مجموعة واسعة من الحلول المخصصة للسوبرماركتات والميني ماركتات والبقالات. تشمل هذه الحلول رفوف العرض، ورفوف التخزين للسوبرماركتات، وعربات التسوق، وتشكيلة كبيرة من ملحقات اللافتات، وأدوات إدارة الرفوف، ونقل المنتجات داخل المتجر، والمزيد.",
+      "jobType": ""
+    },
+    {
+      "language": "en",
+      "name": "Shelves for stores",
+      "description": "The company offers a wide range of tailored solutions for supermarkets, minimarkets, and grocery stores. These solutions include display shelves, storage shelves for supermarkets, shopping carts, and a large selection of signage accessories, shelf management tools, product transportation within the store, and more.",
+      "jobType": ""
+    },
+    {
+      "language": "he",
+      "name": "מדפים לחנויות",
+      "description": "לחברה מגוון רחב של פתרונות מותאמים לסופרמרקטים, מינימרקטים ומכולות. בין הפתרונות ניתן למצוא מדפי תצוגה, מדפים לאחסון סחורה בסופרמרקטים, עגלות קנייה, וכן מבחר גדול של אביזרי שילוט, ניהול מדף, שינוע מוצרים ועוד.",
+      "jobType": ""
+    }
+  ],
+  "picturePath": "assets/occupationPicture/pictureOccupation-1725346320404-8725.png",
+  "pageName": "supermarket",
+  "level": 0,
+  "parentId": null,
+  "subOccupations": [],
+  "gallery": [
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350785136-6256.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c38151602aefb80685d6"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350797216-8782.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c38d51602aefb80685dc"
+      }
+    },
+    
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350810992-2078.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c39b51602aefb80685e3"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350825880-5140.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c3a951602aefb80685eb"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350850152-7418.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c3c251602aefb80685f4"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350862815-5688.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c3ce51602aefb80685fe"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350876343-3978.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c3dc51602aefb8068609"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350889213-1462.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c3e951602aefb8068615"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350899190-6600.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c3f351602aefb8068622"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350927478-5743.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c40f51602aefb8068630"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350943029-475.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c41f51602aefb806863f"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350958206-7738.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c42e51602aefb806864f"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350969461-1576.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c43951602aefb8068660"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350987215-1682.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c44b51602aefb8068672"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725350998838-4020.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c45651602aefb8068685"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351007603-8889.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c45f51602aefb8068699"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351015831-1437.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c46751602aefb80686ae"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351024668-1174.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c47051602aefb80686c4"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351032239-9371.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c47851602aefb80686db"
+      }
+    }
+  ],
+  "__v": 22
+},
+{
+  "_id": {
+    "$oid": "66d062c0adf6a529cb041f15"
+  },
+  "translations": [
+    {
+      "language": "ar",
+      "name": "التخزين الخفيف",
+      "description": "التخزين الخفيف هو حل بسيط وفعال للأعمال، مصمم وفقًا لاحتياجاتها. يتضمن النظام رفوفًا معدنية معيارية مع فواصل، أدراج، وعلاقات، تناسب المساحات المختلفة. يناسب بشكل خاص مناطق التجميع، الميني ماركتات، المنصات، والمعارض، ويحقق أقصى استفادة من المساحة لتخزين واسع. الهدف هو تقديم حلول فعالة تبسط العمليات وتقلل التكاليف، مع استخدام المواد والتصميم الهندسي بشكل ذكي.",
+      "jobType": ""
+    },
+    {
+      "language": "en",
+      "name": "Light storage",
+      "description": "Light storage is a simple and efficient solution for businesses, tailored to their needs. The system includes modular metal shelves with dividers, drawers, and hangers, suitable for various spaces. It is especially suitable for picking areas, minimarkets, platforms, and galleries, maximizing space utilization for extensive storage. The goal is to provide effective solutions that simplify operations and reduce costs, using materials and engineering design wisely.",
+      "jobType": ""
+    },
+    {
+      "language": "he",
+      "name": "אחסנה קלה",
+      "description": "אחסנה קלה היא פתרון פשוט ויעיל לעסקים, מותאם אישית לצרכים שלהם. המערכת כוללת מדפי מתכת מודולריים עם חוצצים, מגירות ומתלים, המתאימים למגוון חללים. היא מתאימה במיוחד לאזורי ליקוט, מינימרקטים, פלטפורמות וגלריות, ומביאה לניצול מקסימלי של השטח לאחסון רחב. המטרה היא לספק פתרונות אפקטיביים שמפשטים את התפעול ומפחיתים עלויות, תוך שימוש חכם בחומרים ובתכנון ההנדסי.",
+      "jobType": ""
+    }
+  ],
+  "picturePath": "assets/occupationPicture/pictureOccupation-1724932800694-7364.png",
+  "pageName": "Lightstorage",
+  "level": 0,
+  "parentId": null,
+  "subOccupations": [],
+  "gallery": [
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351234029-3128.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c54251602aefb80686e1"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351242437-2337.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c54a51602aefb80686e6"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351249485-7994.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c55151602aefb80686ec"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351257854-7400.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c55951602aefb80686f3"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351265620-9742.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c56151602aefb80686fb"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351273227-1674.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c56951602aefb8068704"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351281532-8054.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c57151602aefb806870e"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351288844-7250.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c57851602aefb8068719"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351296164-9489.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c58051602aefb8068725"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351303059-2922.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c58751602aefb8068732"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351318816-4653.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c59651602aefb8068740"
+      }
+    }
+  ],
+  "__v": 11
+},
+{
+  "_id": {
+    "$oid": "66d6b13a67e411acce3d1251"
+  },
+  "translations": [
+    {
+      "language": "ar",
+      "name": "التخزين الثقيل",
+      "description": "نظام رفوف للتخزين الثقيل يناسب جميع أنواع الأحمال، ويوفر زيادة كبيرة في سعة التخزين، مع وصول سهل إلى كل عنصر وحلول لنقل البضائع تناسب جميع الأعمال.",
+      "jobType": ""
+    },
+    {
+      "language": "en",
+      "name": "heavy storage",
+      "description": "Heavy-duty shelving system suitable for all types of loads, providing a significant increase in storage capacity, with easy access to each item and transportation solutions suitable for all businesses.",
+      "jobType": ""
+    },
+    {
+      "language": "he",
+      "name": "אחסנה כבדה",
+      "description": " מערכת מדפים לאחסנה כבדה המתאימה לכל סוגי העומסים, המאפשרת הגדלה משמעותית של נפח האחסון, עם גישה נוחה לכל פריט ופתרונות שינוע מותאמים לכל עסק.",
+      "jobType": ""
+    }
+  ],
+  "picturePath": "assets/occupationPicture/pictureOccupation-1725346106124-7314.jpg",
+  "pageName": "heavystorage",
+  "level": 0,
+  "parentId": null,
+  "subOccupations": [],
+  "gallery": [
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351367870-9472.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c5c751602aefb8068745"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351376255-6456.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c5d051602aefb806874a"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351385718-5261.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c5d951602aefb8068750"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351395189-7794.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c5e351602aefb8068757"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351405655-8998.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c5ed51602aefb806875f"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351414741-5352.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c5f651602aefb8068768"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351425003-9093.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c60151602aefb8068772"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351433678-6986.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c60951602aefb806877d"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351441045-2410.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c61151602aefb8068789"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351447636-390.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c61751602aefb8068796"
+      }
+    }
+  ],
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "66d6b58367e411acce3d1263"
+  },
+  "translations": [
+    {
+      "language": "ar",
+      "name": "عربات سوبر",
+      "description": "عربات السوبرماركت تأتي بأحجام مختلفة من 22 لتر إلى 240 لتر. المقبض الموسع يوفر مساحة للإعلانات ويحتوي على قفل، وتوجد نماذج مزودة بحاملة خلفية للصناديق ومقعد للأطفال الذي يمكن استخدامه أيضًا لتخزين العناصر الصغيرة.",
+      "jobType": ""
+    },
+    {
+      "language": "en",
+      "name": "super carts",
+      "description": "Supermarket carts are available in sizes ranging from 22 liters to 240 liters. The extended handle offers advertising space and includes a lock, and there are models with a rear rack for crates and a child seat that also serves as a compartment for small items.",
+      "jobType": ""
+    },
+    {
+      "language": "he",
+      "name": "עגלות סופר",
+      "description": "עגלות הסופרמרקט מגיעות בנפחים שונים מ-22 ליטר ועד 240 ליטר. הידית המורחבת מציעה שטח פרסום וכוללת מנעול, ויש דגמים עם מנשא אחורי לארגזים ומושב לילד שגם משמש כטיפ לפריטים קטנים.",
+      "jobType": ""
+    }
+  ],
+  "picturePath": "assets/occupationPicture/pictureOccupation-1725347203289-2445.png",
+  "pageName": "supercarts",
+  "level": 0,
+  "parentId": null,
+  "subOccupations": [],
+  "gallery": [
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351710916-7178.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c71e51602aefb80687a7"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351718470-5206.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c72651602aefb80687ac"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351733482-674.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c73551602aefb80687b2"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351741564-8545.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c73d51602aefb80687b9"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351750818-5795.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c74651602aefb80687c1"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351764036-7388.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c75451602aefb80687ca"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351773293-8765.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c75d51602aefb80687d4"
+      }
+    }
+  ],
+  "__v": 7
+},
+{
+  "_id": {
+    "$oid": "66d6b82867e411acce3d126c"
+  },
+  "translations": [
+    {
+      "language": "ar",
+      "name": " طاولات الدفع",
+      "description": "تتوفر طاولات  الدفع بأحجام وألوان وأنواع متنوعة، مع أو بدون ناقل. يمكن تخصيص الطاولة حسب احتياجات العميل المحددة.",
+      "jobType": ""
+    },
+    {
+      "language": "en",
+      "name": "Checkout counters",
+      "description": "Checkout counters and desks are available in a variety of sizes, colors, and types, with or without a conveyor. The desks can be customized to meet specific customer needs.",
+      "jobType": ""
+    },
+    {
+      "language": "he",
+      "name": "שולחנות קופה",
+      "description": " שולחנות ודלפקי קופה זמינים במידות, צבעים, וסוגים שונים, עם או בלי מסוע. ניתן להתאים את השולחן לצרכים הספציפיים של הלקוח.",
+      "jobType": ""
+    }
+  ],
+  "picturePath": "assets/occupationPicture/pictureOccupation-1725347880775-7525.png",
+  "pageName": "Checkoutcounters",
+  "level": 0,
+  "parentId": null,
+  "subOccupations": [],
+  "gallery": [
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351808210-4168.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c78051602aefb80687d9"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351817548-1486.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c78951602aefb80687de"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351825994-2882.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c79251602aefb80687e4"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351833933-6844.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c79951602aefb80687eb"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351843554-3325.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c7a351602aefb80687f3"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351850652-7029.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c7aa51602aefb80687fc"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351861162-2374.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c7b551602aefb8068806"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351868572-1769.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c7bc51602aefb8068811"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351876156-5450.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c7c451602aefb806881d"
+      }
+    },
+    {
+      "path": "assets/occupationGallery/OccupationGallery-1725351881955-9750.jpg",
+      "type": "",
+      "name": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "description": {
+        "en": "",
+        "ar": "",
+        "he": ""
+      },
+      "_id": {
+        "$oid": "66d6c7c951602aefb806882a"
+      }
+    }
+  ],
+  "__v": 10
+}]
